@@ -12,8 +12,8 @@
 
 ### 참여자 분들
 
-- 박은수
-- 강은숙
+- 박은수 (https://github.com/eunsoo) 
+- 강은숙 (https://github.com/thezili-eunsook) 
 ​
 
 
