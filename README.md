@@ -14,7 +14,7 @@
 
 - 박은수 (https://github.com/eunsoo) 
 - 강은숙 (https://github.com/thezili-eunsook) 
-​
+- 김보섭 (https://github.com/aisolab)
 
 
 
