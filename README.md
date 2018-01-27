@@ -15,10 +15,9 @@
 - 박은수 (https://github.com/eunsoo) 
 - 강은숙 (https://github.com/thezili-eunsook) 
 - 김보섭 (https://github.com/aisolab)
-- 문유현 ()
-- 추첨으로 선발되신 분 뿐만 아니라 번역하시는분 누구나 참여자가 되실수 있습니다
-- 번역이 미숙할 수 있으니 검토도 해주시면 너무 감사하겠습니다
-
+- 문유현 (https://github.com/Yuhyun-Moon)
+- 
+-
 
 
 
