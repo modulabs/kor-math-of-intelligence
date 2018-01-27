@@ -17,7 +17,6 @@
 - 김보섭 (https://github.com/aisolab)
 - 문유현 (https://github.com/Yuhyun-Moon)
 - 
-- 하이하이
 
 
 
