@@ -4,7 +4,7 @@
 
 ## Overview
 
-이 코드에 해당하는 동영상 [this](https://youtu.be/QHOazyP-YlM) 은 Siraj Raval의 강의인 "The Math of Intelligence course"의 일부입니다. 이것은 결정 트리 모음인 Random Forests에 대한 강의이고 분류 및 회귀 문제 모두에 유용합니다. 관련 데이터 세트는 [here](http://archive.ics.uci.edu/ml/datasets/banknote+authentication)에서 찾을 수 있습니다. 
+이 코드에 해당하는 동영상 [this](https://youtu.be/QHOazyP-YlM) 은 Siraj Raval의 강의인 "The Math of Intelligence course"의 일부입니다. 이것은 결정 트리 모음인 Random Forests에 대한 강의이고 분류 및 회귀 문제 모두에 유용합니다. 관련 데이터 집합은 [here](http://archive.ics.uci.edu/ml/datasets/banknote+authentication)에서 찾을 수 있습니다. 
 
 
 ## Dependencies
