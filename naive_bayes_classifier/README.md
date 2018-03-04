@@ -8,7 +8,7 @@ Write your own Naive Bayes Classifer for any text dataset. Any improvements from
 
 ## Overview
 
-이 코드에 해당하는 동영상 [this](https://youtu.be/PrkiRVcrxOs) 은 Siraj Raval의 강의인 "The Math of Intelligence course"의 일부입니다. 나는 training data로서 Kaggle dataset ([this](https://www.kaggle.com/uciml/sms-spam-collection-dataset)) 을 training 하여 일부 텍스트의 스팸 인지 아닌지를 분류하기 위해 Naive Bayes classifier 를 사용한다. 
+이 코드에 해당하는 동영상 [this](https://youtu.be/PrkiRVcrxOs) 은 Siraj Raval의 강의인 "The Math of Intelligence course"의 일부입니다. 나는 Kaggle dataset ([this](https://www.kaggle.com/uciml/sms-spam-collection-dataset)) 을 training data로 이용하여 일부 텍스트의 스팸 여부를 Naive Bayes classifier 를 사용하여 분류한다. 
 
 ## Dependencies
 
