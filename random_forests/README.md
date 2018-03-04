@@ -1,5 +1,5 @@
 # random_forests
-이 코드는 SIraj Raval가 Youtube  강의한 "Random Forests - The Math of Intelligence (Week 7)"를 한글화 한 것입니다.
+이 코드는 "Random Forests - The Math of Intelligence (Week 7)"  를 한글화 한 것입니다.
 
 Overview
 
