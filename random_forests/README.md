@@ -1,9 +1,13 @@
 # random_forests
-This is the code for "Random Forests - The Math of Intelligence (Week 7)" By Siraj Raval on Youtube
+이 코드는 SIraj Raval가 Youtube  강의한 "Random Forests - The Math of Intelligence (Week 7)"를 한글화 한 것입니다.
+
+Overview
+
+이 코드에 해당하는 동영상은 Siraj Raval에 "The Math of Intelligence course"의 일부입니다.
 
 ## Overview
 
-This is the code for [this](https://youtu.be/QHOazyP-YlM) video on Youtube by Siraj Raval as part of The Math of Intelligence series. This is a lesson on Random Forests, which is a collection of decision trees. Useful for both classification and regression problems. You can find relevant datasets [here](http://archive.ics.uci.edu/ml/datasets/banknote+authentication)
+이 코드에 해당하는 동영상은 [this](https://youtu.be/QHOazyP-YlM) Siraj Raval에 "The Math of Intelligence course"의 일부입니다. 이것은 결정 트리 모음 인 Random Forests에 대한 강의입니다. 분류 및 회귀 문제 모두에 유용합니다. 관련 데이터 세트를 찾을 수 있습니다. [here](http://archive.ics.uci.edu/ml/datasets/banknote+authentication)
 
 
 ## Dependencies
